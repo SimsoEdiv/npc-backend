@@ -1,0 +1,11 @@
+{
+  "name": "npc-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/interaccionNPC.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.0"
+  }
+}
